@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aarohiagrawal.a2@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/surabhiagrawal/Library/Mobile%20Documents/com~apple~CloudDocs/UMass/Aarohi%20Agrawal%20Resume.pdf](file:///Users/surabhiagrawal/Library/Mobile%20Documents/com~apple~CloudDocs/UMass/Aarohi%20Agrawal%20Resume.pdf)
+- 📄 Know about my experiences [https://aarohi-agrawal-resume.tiiny.site)
 
 - ⚡ Fun fact **I love reading fictional YA novels**
 
