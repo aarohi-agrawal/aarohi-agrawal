@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **intro to computation, abstract datastructures**
 
-- 👨‍💻 My interests are in (AI, Prompt engineering,UI/UX, Digital forensics)
+- 👨‍💻 My interests are in AI, Prompt engineering, UI/UX, Digital forensics
 
 - 📫 How to reach me **aarohiagrawal.a2@gmail.com**
 
