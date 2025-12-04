@@ -9,13 +9,16 @@
 
 - 📫 How to reach me **aarohiagrawal.a2@gmail.com**
 
-- 📄 Know about my experiences [https://aarohi-agrawal-resume.tiiny.site)
+- 📄 Know about my experiences [file:///Users/surabhiagrawal/Library/Mobile%20Documents/com~apple~CloudDocs/UMass/Aarohi%20Agrawal%20Resume.pdf](file:///Users/surabhiagrawal/Library/Mobile%20Documents/com~apple~CloudDocs/UMass/Aarohi%20Agrawal%20Resume.pdf)
 
 - ⚡ Fun fact **I love reading fictional YA novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@aarohiagrawal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aarohiagrawal11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aarohiagrawal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarohiagrawal11" height="30" width="40" /></a>
+<a href="https://kaggle.com/aar0h121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aar0h121" height="30" width="40" /></a>
+<a href="https://instagram.com/aarohiagrawal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarohiagrawal11" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aarohiagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarohiagrawal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
