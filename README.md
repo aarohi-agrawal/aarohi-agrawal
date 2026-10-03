@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarohi</h1>
-<h3 align="center">A sophomore student at UMass Amherst!</h3>
+<h3 align="center">A junior at UMass Amherst!</h3>
 
 - 🔭 I’m currently researching on **failure of VLM models in detecing missing and misleading images**
 
