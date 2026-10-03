@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aarohi</h1>
 <h3 align="center">A sophomore student at UMass Amherst!</h3>
 
-- 🔭 I’m currently researching on **improving LLM's reasoning model with Algoverse**
+- 🔭 I’m currently researching on **failure of VLM models in detecing missing and misleading images**
 
-- 🌱 I’m currently learning **intro to computation, abstract datastructures**
+- 🌱 I’m currently learning **Human Computer Interaction, Practice and Applications of Data Management and Programming Methodology**
 
-- 👨‍💻 My interests are in AI, Prompt engineering, UI/UX, Digital forensics
+- 👨‍💻 My interests are in AI, Prompt engineering and UI/UX
 
 - 📫 How to reach me **aarohiagrawal.a2@gmail.com**
 
-- 📄 Know about my experiences [https://aarohiagrawal-resume.tiiny.site](https://aarohiagrawal-resume.tiiny.site)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1FZvvgpSuA6YAISMJwNRu4duS65vC70ZA/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading fictional YA novels**
 
